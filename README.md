@@ -1,63 +1,50 @@
-```bash
- _                         _                  _             
- ██████╗ ██████╗  █████╗ ███████╗    ███╗   ███╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗
-██╔════╝ ██╔══██╗██╔══██╗██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██║ ██╔╝██╔═══██╗██║   ██║
-██║  ███╗██████╔╝███████║█████╗      ██╔████╔██║██║   ██║██████╔╝█████╔╝ ██║   ██║██║   ██║
-██║   ██║██╔══██╗██╔══██║██╔══╝      ██║╚██╔╝██║██║   ██║██╔══██╗██╔═██╗ ██║   ██║╚██╗ ██╔╝
-╚██████╔╝██║  ██║██║  ██║██║         ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██╗╚██████╔╝ ╚████╔╝ 
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+<pre style="background:#0b0b0b;color:#ffb86c;padding:16px;border-radius:10px;overflow-x:auto;">
 
+<span style="color:#ff3b30">_                         _                  _</span>
+<span style="color:#ff3b30">██████╗ ██████╗  █████╗ ███████╗    ███╗   ███╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗</span>
+<span style="color:#ff4d2e">██╔════╝ ██╔══██╗██╔══██╗██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██║ ██╔╝██╔═══██╗██║   ██║</span>
+<span style="color:#ff6a2a">██║  ███╗██████╔╝███████║█████╗      ██╔████╔██║██║   ██║██████╔╝█████╔╝ ██║   ██║██║   ██║</span>
+<span style="color:#ff8a1f">██║   ██║██╔══██╗██╔══██║██╔══╝      ██║╚██╔╝██║██║   ██║██╔══██╗██╔═██╗ ██║   ██║╚██╗ ██╔╝</span>
+<span style="color:#ffa600">╚██████╔╝██║  ██║██║  ██║██║         ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██╗╚██████╔╝ ╚████╔╝</span>
+<span style="color:#ffb347"> ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝</span>
 
-$ neofetch
+<span style="color:#ff3b30">$ neofetch</span>
 
+<span style="color:#ff6a2a">user</span>      grafmorkov
+<span style="color:#ff6a2a">os</span>        github
+<span style="color:#ff6a2a">focus</span>     systems / compilers / low-level
 
-user        grafmorkov
-os          github
-focus       systems / compilers / low-level
+<span style="color:#ff6a2a">languages</span> C, C++, C#
+<span style="color:#ff6a2a">engine</span>    Unity (legacy)
 
-languages   C, C++, C#
-engine      Unity (legacy)
+<span style="color:#ff6a2a">project</span>   Quark (language)
+<span style="color:#ff6a2a">repo</span>      github.com/grafmorkov/Quark
 
-project     Quark (language)
-repo        https://github.com/grafmorkov/quark-lang
+<span style="color:#ff6a2a">uptime</span>    3+ year
+<span style="color:#ff6a2a">status</span>    develop quark
 
-uptime      3+ year
-status      active transition to systems programming
+<span style="color:#ff3b30">$ cat ~/projects/quark</span>
 
-$ cat ~/projects/quark
-
-Quark is a compiler-based language project I am building.
+Quark is a compiler-based language project.
 
 It focuses on:
 - predictable behavior
 - explicit state
-- simple rules for programs
+- simple rules
 - no hidden runtime behavior
 - memory is always explicit
 
 Pipeline:
 Source → AST → IR → checks → C → native binary
 
-Currently, Quark generates C code as an intermediate backend.
-C is used as a compilation target, not the core of the language.
+Currently generates C as backend.
+Long-term goal: reduce dependency on C.
 
-The long-term goal is to reduce dependency on C and move toward more direct compilation approaches.
+Designed for systems programming + compiler learning.
 
-Quark is designed for systems programming and for learning how compilers work in practice.
+<span style="color:#ff3b30">$ curl contact.local</span>
 
-Repo:
-https://github.com/grafmorkov/Quark
+Discord  grafmorkov
+Telegram @grafmorkov
 
-$ cat stack.conf
-
-C++        low-level systems, compiler backend
-C          memory-level programming, tooling
-C#         Unity tooling (legacy)
-Compiler   lexer / parser / IR / codegen (Quark)
-
-$ curl contact.local
-
-Discord: grafmorkov
-Telegram: @grafmorkov
-
-```
+</pre>
