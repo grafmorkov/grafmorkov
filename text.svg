@@ -18,7 +18,7 @@
     <tspan x="20" dy="2em" fill="#ff3b30">$ neofetch</tspan>
 
     <tspan x="20" dy="1.5em" fill="#ff6a2a">user</tspan>      <tspan fill="#ffffff">grafmorkov</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">os</tspan>        <tspan fill="#ffffff">github</tspan>
+    <tspan x="20" dy="1.2em" fill="#ff6a2a">os</tspan>        <tspan fill="#ffffff">gentoo GNU/Linux </tspan>
     <tspan x="20" dy="1.2em" fill="#ff6a2a">focus</tspan>     <tspan fill="#ffffff">systems / compilers / low-level</tspan>
 
     <tspan x="20" dy="1.5em" fill="#ff6a2a">languages</tspan> <tspan fill="#ffffff">C, C++, C#</tspan>
@@ -40,7 +40,7 @@
     <tspan x="20" dy="1.2em" fill="#ffffff">- no hidden runtime behavior</tspan>
     <tspan x="20" dy="1.2em" fill="#ffffff">- memory is always explicit</tspan>
 
-    <tspan x="20" dy="1.5em" fill="#ffffff">Pipeline: Source → AST → IR → checks → C → native binary</tspan>
+    <tspan x="20" dy="1.5em" fill="#ffffff">Pipeline: Source → AST → checks → IR → fasm → native binary</tspan>
 
     <tspan x="20" dy="1.5em" fill="#ff3b30">$ curl contact.local</tspan>
     <tspan x="20" dy="1.5em" fill="#ffffff">Discord: grafmorkov</tspan>
