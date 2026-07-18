@@ -24,23 +24,11 @@
     <tspan x="20" dy="1.5em" fill="#ff6a2a">languages</tspan> <tspan fill="#ffffff">C, C++, C#</tspan>
     <tspan x="20" dy="1.2em" fill="#ff6a2a">engine</tspan>    <tspan fill="#ffffff">Unity (legacy)</tspan>
 
-    <tspan x="20" dy="1.5em" fill="#ff6a2a">project</tspan>   <tspan fill="#ffffff">Quark (language)</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">repo</tspan>      <tspan fill="#ffffff">github.com/grafmorkov/quark-lang</tspan>
-
     <tspan x="20" dy="1.5em" fill="#ff6a2a">uptime</tspan>    <tspan fill="#ffffff">3+ year</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">status</tspan>    <tspan fill="#ffffff">developing compiler</tspan>
+    <tspan x="20" dy="1.2em" fill="#ff6a2a">status</tspan>    <tspan fill="#ffffff">developing vent</tspan>
 
-    <tspan x="20" dy="2em" fill="#ff3b30">$ cat ~/projects/quark</tspan>
-
-    <tspan x="20" dy="1.5em" fill="#ffffff">Quark is a compiler-based language project.</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">It focuses on:</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">- predictable behavior</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">- explicit state</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">- simple rules</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">- no hidden runtime behavior</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">- memory is always explicit</tspan>
-
-    <tspan x="20" dy="1.5em" fill="#ffffff">Pipeline: Source → AST → checks → IR → fasm → native binary</tspan>
+    <tspan x="20" dy="2em" fill="#ff3b30">$ ls projects</tspan>
+    <tspan x="20" dy="1.5em" fill="#ffffff">vent/    quark-lang/</tspan>
 
     <tspan x="20" dy="1.5em" fill="#ff3b30">$ curl contact.local</tspan>
     <tspan x="20" dy="1.5em" fill="#ffffff">Discord: grafmorkov</tspan>
