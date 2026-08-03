@@ -1,37 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580">
-  <style>
-    .bg { fill: #0b0b0b; }
-    .mono { font-family: "Fira Code", "JetBrains Mono", monospace; font-size: 16px; white-space: pre; }
-  </style>
-
-  <rect class="bg" width="100%" height="100%" rx="12"/>
-
-  <text x="20" y="30" class="mono">
-    <tspan fill="#ff3b30">_                         _                  _</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff3b30">██████╗ ██████╗  █████╗ ███████╗    ███╗   ███╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff4d2e">██╔════╝ ██╔══██╗██╔══██╗██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██║ ██╔╝██╔═══██╗██║   ██║</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">██║  ███╗██████╔╝███████║█████╗      ██╔████╔██║██║   ██║██████╔╝█████╔╝ ██║   ██║██║   ██║</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff8a1f">██║   ██║██╔══██╗██╔══██║██╔══╝      ██║╚██╔╝██║██║   ██║██╔══██╗██╔═██╗ ██║   ██║╚██╗ ██╔╝</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffa600">╚██████╔╝██║  ██║██║  ██║██║         ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██╗╚██████╔╝ ╚████╔╝</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffb347"> ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝</tspan>
-
-    <tspan x="20" dy="2em" fill="#ff3b30">$ neofetch</tspan>
-
-    <tspan x="20" dy="1.5em" fill="#ff6a2a">user</tspan>      <tspan fill="#ffffff">grafmorkov</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">os</tspan>        <tspan fill="#ffffff">gentoo GNU/Linux </tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">focus</tspan>     <tspan fill="#ffffff">systems / compilers / low-level</tspan>
-
-    <tspan x="20" dy="1.5em" fill="#ff6a2a">languages</tspan> <tspan fill="#ffffff">C, C++, C#</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">engine</tspan>    <tspan fill="#ffffff">Unity (legacy)</tspan>
-
-    <tspan x="20" dy="1.5em" fill="#ff6a2a">uptime</tspan>    <tspan fill="#ffffff">3+ year</tspan>
-    <tspan x="20" dy="1.2em" fill="#ff6a2a">status</tspan>    <tspan fill="#ffffff">developing vent</tspan>
-
-    <tspan x="20" dy="2em" fill="#ff3b30">$ ls projects</tspan>
-    <tspan x="20" dy="1.5em" fill="#ffffff">vent/    quark-lang/</tspan>
-
-    <tspan x="20" dy="1.5em" fill="#ff3b30">$ curl contact.local</tspan>
-    <tspan x="20" dy="1.5em" fill="#ffffff">Discord: grafmorkov</tspan>
-    <tspan x="20" dy="1.2em" fill="#ffffff">Telegram: @grafmorkov</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480">
+    <rect class="bg" width="100%" height="100%" rx="12" fill="#0b0b0b"/>
+  
+    <text x="20" y="30" font-family="JetBrains Mono" font-size="16px" xml:space="preserve">
+      <tspan x="20" dy="1.2em" fill="#ff3b30">██████╗  ██████╗  █████╗ ███████╗    ███╗   ███╗ ██████╗ ██████╗ ██╗  ██╗ ██████╗ ██╗   ██╗</tspan>
+      <tspan x="20" dy="1.2em" fill="#ff4d2e">██╔════╝ ██╔══██╗██╔══██╗██╔════╝    ████╗ ████║██╔═══██╗██╔══██╗██║ ██╔╝██╔═══██╗██║   ██║</tspan>
+      <tspan x="20" dy="1.2em" fill="#ff6a2a">██║  ███╗██████╔╝███████║█████╗      ██╔████╔██║██║   ██║██████╔╝█████╔╝ ██║   ██║██║   ██║</tspan>
+      <tspan x="20" dy="1.2em" fill="#ff8a1f">██║   ██║██╔══██╗██╔══██║██╔══╝      ██║╚██╔╝██║██║   ██║██╔══██╗██╔═██╗ ██║   ██║╚██╗ ██╔╝</tspan>
+      <tspan x="20" dy="1.2em" fill="#ffa600">╚██████╔╝██║  ██║██║  ██║██║         ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██╗╚██████╔╝ ╚████╔╝</tspan>
+      <tspan x="20" dy="1.2em" fill="#ffb347"> ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝         ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝</tspan>
+  
+      <tspan x="20" dy="2em" fill="#ff3b30">$ neofetch</tspan>
+  
+      <tspan x="20" dy="1.5em" fill="#ff6a2a">user</tspan>      <tspan fill="#ffffff">grafmorkov</tspan>
+      <tspan x="20" dy="1.2em" fill="#ff6a2a">os</tspan>        <tspan fill="#ffffff">gentoo GNU/Linux </tspan>
+      <tspan x="20" dy="1.2em" fill="#ff6a2a">focus</tspan>     <tspan fill="#ffffff">systems / compilers / low-level</tspan>
+  
+      <tspan x="20" dy="1.5em" fill="#ff6a2a">languages</tspan> <tspan fill="#ffffff">C, C++, C#</tspan>
+      <tspan x="20" dy="1.2em" fill="#ff6a2a">engine</tspan>    <tspan fill="#ffffff">Unity (legacy)</tspan>
+  
+      <tspan x="20" dy="1.5em" fill="#ff6a2a">uptime</tspan>    <tspan fill="#ffffff">3+ year</tspan>
+      <tspan x="20" dy="1.2em" fill="#ff6a2a">status</tspan>    <tspan fill="#ffffff">developing vent</tspan>
+  
+      <tspan x="20" dy="2em" fill="#ff3b30">$ ls projects</tspan>
+      <tspan x="20" dy="1.5em" fill="#ffffff">vent/    quark-lang/</tspan>
+  
+      <tspan x="20" dy="1.5em" fill="#ff3b30">$ curl contact.local</tspan>
+      <tspan x="20" dy="1.5em" fill="#ffffff">Discord: grafmorkov</tspan>
+      <tspan x="20" dy="1.2em" fill="#ffffff">Telegram: @grafmorkov</tspan>
+    </text>
+  </svg>
